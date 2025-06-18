@@ -5,14 +5,14 @@
 ## Eu sou o Kayke Ragoso!
 
 :man_technologist: Desenvolvedor Fullstack apaixonado por tecnologia  
-:house_with_garden: Moro no Rio de Janeiro, Brasil  
-:books: Estou sempre aprendendo mais sobre JavaScript, Python e Java  
-:rocket: Metas para 2025: contribuir com projetos open-source, expandir meu portfólio e conquistar uma vaga na área de desenvolvimento  
+:house_with_garden: Rio de Janeiro - Brasil  
+:books: Estudando constantemente JavaScript, Python, Java e tecnologias web  
+:rocket: Metas 2025: contribuir com projetos open-source, desenvolver apps reais e conquistar uma vaga como Dev  
 :mailbox_with_mail: Contato: kaykeragoso@gmail.com  
 
 ---
 
-## 🧰 Tecnologias e Ferramentas que uso:
+## 🧰 Tecnologias e Ferramentas
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
@@ -22,19 +22,40 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
 
 ---
 
-## 🔥 Minhas Estatísticas no GitHub:
+## 💼 Projetos em Destaque
 
-![Estatísticas do Kayke](https://github-readme-stats.vercel.app/api?username=KaykeRagoso&show_icons=true&theme=tokyonight)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=KaykeRagoso&layout=compact&theme=tokyonight)
+### 🛸 [DroneWise](https://github.com/KaykeRagoso/DroneWise)
+> 💡 Projeto acadêmico com interface em JavaFX para controle e monitoramento de drones em tempo real.
+
+### 📡 [ConectCliente](https://github.com/KaykeRagoso/ConectCliente)
+> ⚙️ Sistema leve para gestão de clientes, construído com HTML, CSS e JavaScript puro.
+
+### 🌍 [Tourism‑Rio](https://github.com/KaykeRagoso/Tourism-Rio)
+> 🧭 Site sobre turismo no RJ com backend em Python (Flask), rotas dinâmicas e layout responsivo.
 
 ---
 
-## 📫 Conecte-se comigo:
+## 🔥 Estatísticas GitHub
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KaykeRagoso&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaykeRagoso&layout=compact&theme=tokyonight"/>
+</div>
+
+---
+
+## 📫 Vamos nos conectar!
 
 [![LinkedIn](https://img.shields.io/badge/-Kayke%20Ragoso-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaykeragoso/)
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white)](https://github.com/KaykeRagoso)
+
+---
+
+⭐ Se gostou de algum projeto, deixe uma estrela!  
+📩 Aberto a colaborações, freelas e oportunidades como Dev Fullstack Jr.

@@ -40,6 +40,12 @@ Pessoal, venha me conhecer. Se quiser me siga!!!
 
 ---
 
+##📚 Formação Acadêmica
+
+> Graduação em Análise e Desenvolvimento de Sistemas (Cursando)
+
+---
+
 ## 🔥 Estatísticas GitHub
 
 <div align="center">

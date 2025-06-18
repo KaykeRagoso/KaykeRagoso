@@ -5,7 +5,7 @@ Pessoal, venha me conhecer. Se quiser me siga!!!
 
 :man_technologist: Desenvolvedor Fullstack apaixonado por tecnologia  
 :house_with_garden: Rio de Janeiro - Brasil  
-:books: Estudando constantemente JavaScript, Python, Java e tecnologias web
+:books: Estudando constantemente JavaScript, Python, Java e tecnologias web 
 :rocket: Metas 2025: contribuir com projetos open-source, desenvolver apps reais e conquistar uma vaga como Dev  
 :mailbox_with_mail: Contato: kaykelucas47@gmail.com  
 

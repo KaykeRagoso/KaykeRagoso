@@ -53,7 +53,7 @@ Pessoal, venha me conhecer. Se quiser me siga!!!
 
 ## 📫 Vamos nos conectar!
 
-[![LinkedIn](https://img.shields.io/badge/-Kayke%20Ragoso-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/kayke-ragoso)
+[![LinkedIn](https://img.shields.io/badge/-Kayke%20Ragoso-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/kayke-ragoso/)
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white)](https://github.com/KaykeRagoso)
 
 ---

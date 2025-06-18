@@ -40,7 +40,7 @@ Pessoal, venha me conhecer. Se quiser me siga!!!
 
 ---
 
-##📚 Formação Acadêmica
+## 📚 Formação Acadêmica
 
 > Graduação em Análise e Desenvolvimento de Sistemas (Cursando)
 

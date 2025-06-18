@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Kayke%20Ragoso&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 # 👋 Bem-vindo(a)!
-Pessoal, venha me conhecer! Se quiser me siga!!!
+Pessoal, venha me conhecer. Se quiser me siga!!!
 
 ## Eu sou o Kayke Ragoso!
 

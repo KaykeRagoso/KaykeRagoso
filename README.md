@@ -9,7 +9,7 @@ Pessoal, venha me conhecer. Se quiser me siga!!!
 :house_with_garden: Rio de Janeiro - Brasil  
 :books: Estudando constantemente JavaScript, Python, Java e tecnologias web  
 :rocket: Metas 2025: contribuir com projetos open-source, desenvolver apps reais e conquistar uma vaga como Dev  
-:mailbox_with_mail: Contato: kaykeragoso@gmail.com  
+:mailbox_with_mail: Contato: kaykelucas47@gmail.com  
 
 ---
 
@@ -53,7 +53,7 @@ Pessoal, venha me conhecer. Se quiser me siga!!!
 
 ## 📫 Vamos nos conectar!
 
-[![LinkedIn](https://img.shields.io/badge/-Kayke%20Ragoso-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaykeragoso/)
+[![LinkedIn](https://img.shields.io/badge/-Kayke%20Ragoso-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/kayke-ragoso)
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white)](https://github.com/KaykeRagoso)
 
 ---

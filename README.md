@@ -63,12 +63,10 @@ Sou um desenvolvedor fullstack em formação, apaixonado por transformar ideias 
 
 ## 📫 Vamos nos conectar!
 
+###💬 Se quiser bater um papo sobre tecnologia, trocar ideias ou colaborar em projetos, será um prazer conversar!
+
 [![LinkedIn](https://img.shields.io/badge/-Kayke%20Ragoso-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayke-ragoso/)
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white)](https://github.com/KaykeRagoso/)
-
----
-
-##💬 Se quiser bater um papo sobre tecnologia, trocar ideias ou colaborar em projetos, será um prazer conversar!
 
 ---
 

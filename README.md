@@ -1,5 +1,5 @@
 # 👋 Bem-vindo(a)!
-Pessoal, venha me conhecer. Se quiser me siga!!!
+Sou um desenvolvedor fullstack em formação, apaixonado por transformar ideias em soluções reais. Vamos nos conectar?
 
 ## Eu sou o Kayke Ragoso!
 
@@ -11,6 +11,12 @@ Pessoal, venha me conhecer. Se quiser me siga!!!
 
 ---
 
+🎯 Metas para 2025:
+- Contribuir ativamente com projetos open-source
+- Desenvolver e publicar apps reais no GitHub e em produção
+- Conquistar uma vaga como Desenvolvedor Fullstack Jr.
+
+---
 ## 🧰 Tecnologias e Ferramentas
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -57,8 +63,11 @@ Pessoal, venha me conhecer. Se quiser me siga!!!
 
 ## 📫 Vamos nos conectar!
 
-[![LinkedIn](https://img.shields.io/badge/-Kayke%20Ragoso-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/kayke-ragoso)
+[![LinkedIn](https://img.shields.io/badge/-Kayke%20Ragoso-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayke-ragoso/)
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white)](https://github.com/KaykeRagoso/)
+
+---
+##💬 Se quiser bater um papo sobre tecnologia, trocar ideias ou colaborar em projetos, será um prazer conversar!
 
 ---
 

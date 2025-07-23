@@ -48,7 +48,7 @@ Sou um desenvolvedor fullstack em formação, apaixonado por transformar ideias 
 
 ## 📖 **Formação Acadêmica**
 
-> 🎓 Graduação em Análise e Desenvolvimento de Sistemas *(Cursando)*
+> 🎓 Graduação em Análise e Desenvolvimento de Sistemas *(Formando)*
 
 ---
 

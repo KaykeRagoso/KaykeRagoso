@@ -1,5 +1,5 @@
 # 👋 Bem-vindo(a)!
-Sou um desenvolvedor fullstack em formação, apaixonado por transformar ideias em soluções reais. Vamos nos conectar?
+Sou um desenvolvedor fullstack, apaixonado por transformar ideias em soluções reais. Vamos nos conectar?
 
 ## Eu sou o Kayke Ragoso!
 

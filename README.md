@@ -38,7 +38,7 @@ Sou um desenvolvedor fullstack, apaixonado por transformar ideias em soluções 
 ### 🛸 [DroneWise](https://github.com/KaykeRagoso/DroneWise)
 > 💡 Projeto acadêmico com interface em JavaFX para controle e monitoramento de drones em tempo real.
 
-### 📡 [Categorizador-Inteligente-de-Emails]([https://github.com/KaykeRagoso/ConectCliente](https://github.com/KaykeRagoso/Categorizador-Inteligente-de-Emails))
+### 📡 [Categorizador-Inteligente-de-Emails](https://github.com/KaykeRagoso/Categorizador-Inteligente-de-Emails)
 > ⚙️ Sistema que lida com alto volume de emails, categoriza e responde com resposta automáticas.
 
 ### 🌍 [Tourism‑Rio](https://github.com/KaykeRagoso/Tourism-Rio)

@@ -38,8 +38,8 @@ Sou um desenvolvedor fullstack, apaixonado por transformar ideias em soluções 
 ### 🛸 [DroneWise](https://github.com/KaykeRagoso/DroneWise)
 > 💡 Projeto acadêmico com interface em JavaFX para controle e monitoramento de drones em tempo real.
 
-### 📡 [ConectCliente](https://github.com/KaykeRagoso/ConectCliente)
-> ⚙️ Sistema leve para gestão de clientes, construído com HTML, CSS e JavaScript puro.
+### 📡 [Categorizador-Inteligente-de-Emails]([https://github.com/KaykeRagoso/ConectCliente](https://github.com/KaykeRagoso/Categorizador-Inteligente-de-Emails))
+> ⚙️ Sistema que lida com alto volume de emails, categoriza e responde com resposta automáticas.
 
 ### 🌍 [Tourism‑Rio](https://github.com/KaykeRagoso/Tourism-Rio)
 > 🧭 Site sobre turismo no RJ com backend em Python (Flask), rotas dinâmicas e layout responsivo.

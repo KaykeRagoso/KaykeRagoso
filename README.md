@@ -36,7 +36,7 @@ Neste GitHub você verá projetos que simulam **cenários reais de produção**,
   Aplicação fullstack que classifica emails corporativos em produtivos e improdutivos, utilizando uma arquitetura híbrida de NLP e IA (Transformers) apenas quando necessário.
 
 
-* **[Tourism Rio](https://github.com/KaykeRagoso/Tourism-Rio)** 
+* **[Tourism Rio](https://github.com/KaykeRagoso/Tourism-Rio)**
   Aplicação web interativa para exploração de pontos turísticos do RJ, com filtros dinâmicos e integração com Firebase.
   
 

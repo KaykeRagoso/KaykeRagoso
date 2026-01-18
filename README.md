@@ -35,8 +35,13 @@ Neste GitHub você verá projetos que simulam **cenários reais de produção**,
 * **Categorizador Inteligente de Emails**
   Aplicação fullstack que classifica emails corporativos em produtivos e improdutivos, utilizando uma arquitetura híbrida de NLP e IA (Transformers) apenas quando necessário.
 
+  Repositório: https://github.com/KaykeRagoso/Categorizador-Inteligente-de-Emails  
+
 * **TourismRio**
   Aplicação web interativa para exploração de pontos turísticos do RJ, com filtros dinâmicos e integração com Firebase.
+
+  Repositório: https://github.com/KaykeRagoso/Tourism-Rio
+  
 
 *(Veja os repositórios para detalhes técnicos e decisões de arquitetura)*
 

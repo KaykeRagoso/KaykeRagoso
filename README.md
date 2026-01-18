@@ -21,8 +21,11 @@ Neste GitHub você verá projetos que simulam **cenários reais de produção**,
 ## 🛠️ Tecnologias
 
 **Frontend:** HTML, CSS, JavaScript, React
+
 **Backend:** Node.js, Python (Flask), Java
+
 **Banco de dados:** PostgreSQL, MySQL, Firebase
+
 **Outros:** Git, GitHub, APIs REST, Deploy Web
 
 ---

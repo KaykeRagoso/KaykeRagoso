@@ -1,73 +1,46 @@
-# 👋 Bem-vindo(a)!
-Sou um desenvolvedor fullstack, apaixonado por transformar ideias em soluções reais. Vamos nos conectar?
+# 👋 Olá, eu sou o Kayke Ragoso
 
-## Eu sou o Kayke Ragoso!
+Sou **Desenvolvedor Fullstack**, com foco em aplicações web modernas e projetos orientados a problemas reais de negócio. Trabalho principalmente com **JavaScript, React, Node.js, Python e PostgreSQL**, atuando do front-end ao back-end, incluindo APIs REST, autenticação, banco de dados e deploy.
 
-:man_technologist: Desenvolvedor Fullstack apaixonado por tecnologia  
-:house_with_garden: Rio de Janeiro - Brasil  
-:books: Estudando constantemente JavaScript, Python, Java e tecnologias web (FullStack)                                
-:rocket: Metas 2025: contribuir com projetos open-source, desenvolver apps reais e conquistar uma vaga como Dev  
-:mailbox_with_mail: Contato: kaykelucas47@gmail.com  
+Minha trajetória começou na **infraestrutura de TI**, o que me trouxe uma base sólida em lógica, organização, resolução de problemas e visão sistêmica. Desde **2021**, desenvolvo projetos completos com foco em boas práticas, código limpo e decisões técnicas conscientes.
 
 ---
 
-🎯 Metas para 2025:
-- Contribuir ativamente com projetos open-source
-- Desenvolver e publicar apps reais no GitHub e em produção
-- Conquistar uma vaga como Desenvolvedor Fullstack Jr.
+## 🚀 O que você encontra aqui
 
----
-## 🧰 Tecnologias e Ferramentas
+Neste GitHub você verá projetos que simulam **cenários reais de produção**, como:
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
-
+* Aplicações **fullstack** completas
+* APIs REST estruturadas
+* Integração com bancos de dados
+* Projetos com foco em **arquitetura, performance e manutenibilidade**
+* Uso responsável de IA quando faz sentido (não por hype)
 
 ---
 
-## 💼 Projetos em Destaque
+## 🛠️ Tecnologias
 
-### 🛸 [DroneWise](https://github.com/KaykeRagoso/DroneWise)
-> 💡 Projeto acadêmico com interface em JavaFX para controle e monitoramento de drones em tempo real.
-
-### 📡 [Categorizador-Inteligente-de-Emails](https://github.com/KaykeRagoso/Categorizador-Inteligente-de-Emails)
-> ⚙️ Sistema que lida com alto volume de emails, categoriza e responde com resposta automáticas.
-
-### 🌍 [Tourism‑Rio](https://github.com/KaykeRagoso/Tourism-Rio)
-> 🧭 Site sobre turismo no RJ com backend em Python (Flask), rotas dinâmicas e layout responsivo.
+**Frontend:** HTML, CSS, JavaScript, React
+**Backend:** Node.js, Python (Flask), Java
+**Banco de dados:** PostgreSQL, MySQL, Firebase
+**Outros:** Git, GitHub, APIs REST, Deploy Web
 
 ---
 
-## 📖 **Formação Acadêmica**
+## 📌 Projetos em destaque
 
-> 🎓 Graduação em Análise e Desenvolvimento de Sistemas *(Concluído)*
+* **Categorizador Inteligente de Emails**
+  Aplicação fullstack que classifica emails corporativos em produtivos e improdutivos, utilizando uma arquitetura híbrida de NLP e IA (Transformers) apenas quando necessário.
 
----
+* **TourismRio**
+  Aplicação web interativa para exploração de pontos turísticos do RJ, com filtros dinâmicos e integração com Firebase.
 
-## 🔥 Estatísticas GitHub
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KaykeRagoso&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaykeRagoso&layout=compact&theme=tokyonight"/>
-</div>
+*(Veja os repositórios para detalhes técnicos e decisões de arquitetura)*
 
 ---
 
-## 📫 Vamos nos conectar!
-💬 Se quiser bater um papo sobre tecnologia, trocar ideias ou colaborar em projetos, será um prazer conversar!
+## 💼 Objetivo profissional
 
-[![LinkedIn](https://img.shields.io/badge/-Kayke%20Ragoso-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayke-ragoso/)
-[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white)](https://github.com/KaykeRagoso/)
+Busco oportunidades como **Desenvolvedor Fullstack**, seja em **CLT, PJ, freelances ou projetos sob demanda**, onde eu possa contribuir com soluções eficientes, evoluir tecnicamente e gerar impacto real através da tecnologia.
 
----
-
-⭐ Se gostou de algum projeto, deixe uma estrela!  
-📩 Aberto a colaborações, freelas e oportunidades como Dev Fullstack Jr.
+📫 **LinkedIn:** [https://www.linkedin.com/in/kayke-ragoso/](https://www.linkedin.com/in/kayke-ragoso/)

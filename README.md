@@ -1,32 +1,41 @@
-# 👋 Olá, eu sou o Kayke Ragoso
+## 👋 Olá, eu sou o Kayke Ragoso
 
-Sou **Desenvolvedor Fullstack**, com foco em aplicações web modernas e projetos orientados a problemas reais de negócio. Trabalho principalmente com **JavaScript, React, Node.js, Python e PostgreSQL**, atuando do front-end ao back-end, incluindo APIs REST, autenticação, banco de dados e deploy.
+Sou **Desenvolvedor de Software Júnior**, formado em **Análise e Desenvolvimento de Sistemas**, com foco em aplicações **Web e Mobile** orientadas a problemas reais de negócio.
 
-Minha trajetória começou na **infraestrutura de TI**, o que me trouxe uma base sólida em lógica, organização, resolução de problemas e visão sistêmica. Desde **2021**, desenvolvo projetos completos com foco em boas práticas, código limpo e decisões técnicas conscientes.
+Atuo principalmente com **JavaScript, React, React Native e Firebase**, desenvolvendo aplicações completas que envolvem autenticação, integração com banco de dados, navegação, persistência de dados e experiência do usuário.
+
+Minha trajetória começou na **infraestrutura de TI**, o que me trouxe uma base sólida em lógica, organização, resolução de problemas e visão sistêmica — habilidades que aplico diretamente no desenvolvimento de software.
 
 ---
 
 ## 🚀 O que você encontra aqui
 
-Neste GitHub você verá projetos que simulam **cenários reais de produção**, como:
+Neste GitHub você encontrará projetos que simulam **cenários reais de produção**, com foco em:
 
-* Aplicações **fullstack** completas
-* APIs REST estruturadas
-* Integração com bancos de dados
-* Projetos com foco em **arquitetura, performance e manutenibilidade**
-* Uso responsável de IA quando faz sentido (não por hype)
+- Aplicações Web e Mobile completas
+- Integração com backend e banco de dados
+- Autenticação e controle de usuários
+- Organização de código e boas práticas
+- Projetos pensados como **produto**, não apenas como exercício
 
 ---
 
 ## 🛠️ Tecnologias
 
-**Frontend:** HTML, CSS, JavaScript, React
+**Frontend**
+- HTML, CSS, JavaScript
+- React, React Native
 
-**Backend:** Node.js, Python (Flask), Java
+**Backend & Dados**
+- Firebase (Authentication, Firestore)
+- Java, Node.js (básico)
+- SQL (PostgreSQL / MySQL)
 
-**Banco de dados:** PostgreSQL, MySQL, Firebase
-
-**Outros:** Git, GitHub, APIs REST, Deploy Web
+**Outros**
+- Git & GitHub
+- APIs REST
+- Scrum e documentação técnica
+- UI/UX aplicado ao desenvolvimento
 
 ---
 
@@ -38,6 +47,13 @@ Neste GitHub você verá projetos que simulam **cenários reais de produção**,
 
 * **[Tourism Rio](https://github.com/KaykeRagoso/Tourism-Rio)**
   Aplicação web interativa para exploração de pontos turísticos do RJ, com filtros dinâmicos e integração com Firebase.
+
+* **[Conect Client](https://github.com/KaykeRagoso/ConectClient)**
+Aplicação mobile de agendamento de serviços desenvolvida em **React Native + Firebase**, simulando um cenário real de mercado, com autenticação de usuários, atendimento interativo, feedbacks e persistência de dados em nuvem.
+
+> Projeto criado com foco em experiência do usuário, organização de código e integração completa com backend.
+
+---
   
 
 *(Veja os repositórios para detalhes técnicos e decisões de arquitetura)*
@@ -46,6 +62,9 @@ Neste GitHub você verá projetos que simulam **cenários reais de produção**,
 
 ## 💼 Objetivo profissional
 
-Busco oportunidades como **Desenvolvedor Fullstack**, seja em **CLT, PJ, freelances ou projetos sob demanda**, onde eu possa contribuir com soluções eficientes, evoluir tecnicamente e gerar impacto real através da tecnologia.
+Busco oportunidades como **Desenvolvedor de Software Júnior (Web ou Mobile)**, onde eu possa contribuir com soluções bem estruturadas, evoluir tecnicamente e gerar impacto real através da tecnologia.
 
-📫 **LinkedIn:** [https://www.linkedin.com/in/kayke-ragoso/](https://www.linkedin.com/in/kayke-ragoso/)
+---
+
+📫 **LinkedIn**:  
+👉 https://www.linkedin.com/in/kayke-ragoso/

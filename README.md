@@ -1,70 +1,63 @@
 # 🎮 Kayke Ragoso
-### Game Developer | C++ | Unreal Engine
+### Game Developer | C# & Unity | C++ & Unreal Engine
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00A8FF&center=true&vCenter=true&width=650&lines=Game+Developer+in+Progress;C%2B%2B+%7C+Unreal+Engine;Building+Worlds+Through+Code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00A8FF&center=true&vCenter=true&width=650&lines=Game+Developer;C%23+%7C+Unity;C%2B%2B+%7C+Unreal+Engine" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Brazilian Game Developer focused on building games and interactive experiences.
+I'm a Brazilian game developer focused on gameplay programming.
 
-Currently studying **C++ and Unreal Engine**, developing my programming skills and exploring game architecture, gameplay systems and game mechanics.
+I have a solid foundation in **C# and Unity** (Unity Essentials Pathway and Unity Junior Programmer certified) and I'm now building my skills in **C++ and Unreal Engine**, exploring game architecture, gameplay systems and game mechanics.
 
-- 🎮 Focus: Game Development
-- 💻 Main Language: C++
-- 🚀 Game Engine: Unreal Engine 5
-- 🌎 Based in Brazil
-- 🎯 Goal: Become a professional Game Developer
-- 🕹️ Dream: Work with Xbox Game Studios
+- 🎮 Focus: Gameplay programming
+- 💻 Languages: C# (Unity), C++ (learning)
+- 🚀 Engines: Unity, Unreal Engine 5 (learning), GameMaker
+- 🌎 Based in Rio de Janeiro, Brazil
+- 🎯 Goal: Junior or internship role in game development
+
+---
+
+## 🕹️ Projects
+
+**Super Pong** — Unity 6, C#
+Pong game with separate Ball, Paddle and GameManager scripts. Expanding it with new mechanics and publishing it on itch.io.
+
+**Sentry Last Stand** — Unity 2D, C#
+Top-down, post-apocalyptic tower defense game.
+
+**PROTESES_DE_GUERRA** — GameMaker (GML), game jam
+Game jam project, currently being ported to Unity.
+
+🎮 More games on [itch.io](https://kayke-ragoso.itch.io/)
 
 ---
 
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,unreal,visualstudio,git,github,vscode" />
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KaykeRagoso&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaykeRagoso&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=KaykeRagoso&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaykeRagoso&theme=tokyo-night&hide_border=true" />
-</p>
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KaykeRagoso/KaykeRagoso/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <img src="https://skillicons.dev/icons?i=cs,unity,cpp,unreal,visualstudio,git,github,vscode" />
 </p>
 
 ---
 
 ## 🎯 Current Goals
 
-- [ ] Master C++ fundamentals
-- [ ] Learn Object-Oriented Programming in C++
+- [x] Unity Essentials Pathway
+- [x] Unity Junior Programmer
+- [ ] Master C++ fundamentals and OOP
 - [ ] Master Unreal Engine fundamentals
-- [ ] Build gameplay systems
-- [ ] Develop and publish original games
-- [ ] Build a professional Game Development portfolio
+- [ ] Build gameplay systems in C++ and Unreal
+- [ ] Publish original games on itch.io
+
+---
+
+## 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/kayke-ragoso/) · [itch.io](https://kayke-ragoso.itch.io/)
 
 ---
 
